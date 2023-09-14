@@ -1,2 +1,0 @@
-# aula15JUN
-exemplificarIC
